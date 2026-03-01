@@ -63,7 +63,7 @@ Python分析
 グラフ生成
 ↓
 Excel表示
-```text
+```
 
 
 ## ■ 主な機能
@@ -132,6 +132,7 @@ Pythonが生成したPNGをExcelへ表示
 
 ## ■ ファイル構成
 
+```text
 AHSS/
 │
 ├ AHSS.xlsm
@@ -161,6 +162,7 @@ AHSS/
 │ └ AHSS_v1.1_差分設計書.pdf
 │
 └ .gitignore
+```
 
 ---
 
