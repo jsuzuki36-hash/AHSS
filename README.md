@@ -62,7 +62,7 @@ Python分析
 グラフ生成
 ↓
 Excel表示
-```text
+
 ## ■ 主な機能
 
 ### ① 入力検証（Excel VBA）
@@ -158,7 +158,7 @@ AHSS/
 │ └ AHSS_v1.1_差分設計書.pdf
 │
 └ .gitignore
-```text
+
 ---
 
 ## ■ 実行方法
