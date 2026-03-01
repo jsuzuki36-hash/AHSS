@@ -125,9 +125,9 @@ Pythonが生成したPNGをExcelへ表示
 | Excelマクロブック | 実行環境 |
 
 ---
-</> Markdown
-## ■ ファイル構成
 
+## ■ ファイル構成
+‘’’
 AHSS/
 │
 ├ AHSS.xlsm
@@ -157,8 +157,7 @@ AHSS/
 │ └ AHSS_v1.1_差分設計書.pdf
 │
 └ .gitignore
-
-</> コード
+‘’’
 ---
 
 ## ■ 実行方法
